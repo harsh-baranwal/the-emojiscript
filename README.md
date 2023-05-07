@@ -18,7 +18,7 @@
 npm i -g the-emojiscript
 ```
 
-<p>To check whether it properly installed on not run <b><code>emojiscript</code></b> in your terminal.</p>
+<p>Run the <code>emojiscript</code> command in your terminal.</p>
 
 <h4>Usage: </h4>
 
