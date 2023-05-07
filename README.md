@@ -1,7 +1,7 @@
 <h1 align="center">EmojiScript 🔥</h1>
 
 <p align="center">
-<a href="https://www.npmjs.com/package/the-emojiscript"><img alt="Version" src="https://img.shields.io/badge/npm-v1.0.0-blue"/></a>
+<a href="https://www.npmjs.com/package/the-emojiscript"><img alt="Version" src="https://img.shields.io/badge/npm-v1.0.1-blue"/></a>
 <a href="https://www.npmjs.com/package/the-emojiscript"><img alt="Package" src="https://img.shields.io/badge/npm-the--emojiscript-orange"/></a>
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"/>
 </p>
