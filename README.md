@@ -12,11 +12,13 @@
 <br>
 
 <h2>Installation</h2>
-<p>Make sure you have already installed Node in your system</p>
+<p>Make sure you have already installed Node in your system. Run the following command in your command prompt window.</p>
 
 ```
 npm i -g the-emojiscript
 ```
+
+<p>To check whether it properly installed on not run <b><code>emojiscript</code></b> in your terminal.</p>
 
 <h4>Usage: </h4>
 
