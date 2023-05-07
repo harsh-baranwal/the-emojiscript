@@ -1,0 +1,42 @@
+{
+  "name": "the-emojiscript",
+  "version": "1.0.1",
+  "description": "A new kind of programming language based on emojis.",
+  "main": "bin/cli.js",
+  "files": [
+    "bin/"
+  ],
+  "bin": {
+    "👀": "bin/erun.js",
+    "emorun": "bin/erun.js",
+    "emojiscript": "bin/cli.js"
+  },
+  "scripts": {
+    "gen-parser": "nearleyc grammar.ne -o grammar.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-baranwal/the-emojiscript.git"
+  },
+  "keywords": [
+    "emoji",
+    "emojiscript",
+    "programming-language",
+    "lang",
+    "es",
+    "language"
+  ],
+  "author": "Harsh Baranwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harsh-baranwal/the-emojiscript/issues"
+  },
+  "homepage": "https://github.com/harsh-baranwal/the-emojiscript#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "moo": "^0.5.2",
+    "mz": "^2.7.0",
+    "nearley": "^2.20.1"
+  }
+}
