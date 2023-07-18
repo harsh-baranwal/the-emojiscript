@@ -6,7 +6,7 @@
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"/>
 </p>
 
-<p>Compile and run any EmojiScript program from this [website](https://harsh-baranwal.github.io/web-compiler/)</p>
+<p>Compile and run any EmojiScript program from this <a href="https://harsh-baranwal.github.io/web-compiler/">website</a></p>
 
 <p align="center">
   <b>EmojiScript 🔥 is a programming language based on emojis.</b>
