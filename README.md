@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100px" height="100px" src="http://harshbaranwal.rf.gd/images/es_logo.svg" alt="Logo">
+</p>
+
 <h1 align="center">EmojiScript 🔥</h1>
 
 <p align="center">
