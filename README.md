@@ -1,4 +1,3 @@
-![Logo](http://harshbaranwal.rf.gd/images/es_logo.svg)
 
 <h1 align="center">EmojiScript 🔥</h1>
 
