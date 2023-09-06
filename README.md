@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100px" height="100px" src="http://harshbaranwal.rf.gd/images/es_logo.svg" alt="Logo">
+  ![Logo](http://harshbaranwal.rf.gd/images/es_logo.svg)
 </p>
 
 <h1 align="center">EmojiScript 🔥</h1>
